@@ -1,0 +1,6 @@
+{
+  "name": "Lumen AI",
+  "description": "A chat application that allows users to interact with various AI models from different providers like DeepSeek, Groq, and OpenRouter. Users can manage API keys and switch between models for a flexible chat experience.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
